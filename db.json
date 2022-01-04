@@ -1,0 +1,162 @@
+{
+  "posts": [
+    {
+      "name": "manideep",
+      "age": "28",
+      "email": "sdeepu189@gmail.com",
+      "phonenumber": "9912998480",
+      "id": 2
+    },
+    {
+      "name": "Vijayalaxmi",
+      "age": "25",
+      "email": "vijayalaxmi1thota@gmail.com",
+      "phonenumber": "7731936603",
+      "id": 3
+    },
+    {
+      "name": "Maniroop",
+      "age": "26",
+      "email": "manideep@gmail.com",
+      "phonenumber": "9000351865",
+      "id": 4
+    },
+    {
+      "name": "Kundan",
+      "age": "18",
+      "email": "Kundan@gmail.com",
+      "phonenumber": "7731936604",
+      "id": 5
+    },
+    {
+      "name": "Madhu",
+      "age": "23",
+      "email": "Madhu@gmail.com",
+      "phonenumber": "9912998481",
+      "id": 6
+    },
+    {
+      "name": "Manoj",
+      "age": "30",
+      "email": "manoj@gmail.com",
+      "phonenumber": "7731936605",
+      "id": 7
+    },
+    {
+      "name": "Naveena",
+      "age": "25",
+      "email": "naveena@gmail.com",
+      "phonenumber": "9912998482",
+      "id": 8
+    },
+    {
+      "name": "Manvith",
+      "age": "2",
+      "email": "manvith@gmail.com",
+      "phonenumber": "7731936606",
+      "id": 9
+    },
+    {
+      "name": "Shresta",
+      "age": "10",
+      "email": "shresta@gmail.com",
+      "phonenumber": "9912998484",
+      "id": 10
+    },
+    {
+      "name": "Shreyas",
+      "age": "25",
+      "email": "shreyas@gmail.com",
+      "phonenumber": "7731936606",
+      "id": 11
+    },
+    {
+      "name": "manideep",
+      "age": "28",
+      "email": "sdeepu189@gmail.com",
+      "phonenumber": "9912998480",
+      "id": 2
+    },
+    {
+      "name": "Vijayalaxmi",
+      "age": "25",
+      "email": "vijayalaxmi1thota@gmail.com",
+      "phonenumber": "7731936603",
+      "id": 3
+    },
+    {
+      "name": "Maniroop",
+      "age": "26",
+      "email": "manideep@gmail.com",
+      "phonenumber": "9000351865",
+      "id": 4
+    },
+    {
+      "name": "Kundan",
+      "age": "18",
+      "email": "Kundan@gmail.com",
+      "phonenumber": "7731936604",
+      "id": 5
+    },
+    {
+      "name": "Madhu",
+      "age": "23",
+      "email": "Madhu@gmail.com",
+      "phonenumber": "9912998481",
+      "id": 6
+    },
+    {
+      "name": "Manoj",
+      "age": "30",
+      "email": "manoj@gmail.com",
+      "phonenumber": "7731936605",
+      "id": 7
+    },
+    {
+      "name": "Naveena",
+      "age": "25",
+      "email": "naveena@gmail.com",
+      "phonenumber": "9912998482",
+      "id": 8
+    },
+    {
+      "name": "Manvith",
+      "age": "2",
+      "email": "manvith@gmail.com",
+      "phonenumber": "7731936606",
+      "id": 9
+    },
+    {
+      "name": "Shresta",
+      "age": "10",
+      "email": "shresta@gmail.com",
+      "phonenumber": "9912998484",
+      "id": 10
+    },
+    {
+      "name": "Shreyas",
+      "age": "25",
+      "email": "shreyas@gmail.com",
+      "phonenumber": "7731936606",
+      "id": 11
+    },
+    {
+      "id": 13,
+      "name": "Vijayalaxmi Shivanathuni",
+      "age": "25",
+      "email": "vijaya@gmail.coom",
+      "phonenumber": "0467795857"
+    },
+    {
+      "id": 14,
+      "name": "Manideep Shivanathuni",
+      "age": "28",
+      "email": "shivanathuni.manideep@gmail.com",
+      "phonenumber": "0465973443"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
